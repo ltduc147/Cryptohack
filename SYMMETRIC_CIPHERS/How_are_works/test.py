@@ -1,0 +1,1 @@
+print(hex(2)[2:].zfill(2))
